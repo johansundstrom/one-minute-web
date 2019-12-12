@@ -1,4 +1,4 @@
-# one-second-web
+# ONE-SECOND-WEB
 Bygg en webbsida på en sekund
 
 ## Repetition

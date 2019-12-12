@@ -1,5 +1,5 @@
-# ONE-SECOND-WEB
-Bygg en webbsida på en sekund
+# ONE-MINUTE-WEB
+Bygg en webbsida på en minut
 
 ## Repetition
 * HTML strukturerar information

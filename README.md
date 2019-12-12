@@ -2,8 +2,8 @@
 Bygg en webbsida på en minut
 
 ## Repetition
-* HTML strukturerar information
-* CSS manipulerar webbläsarens inbyggda stil
+* om att HTML strukturerar information
+* och att CSS manipulerar webbläsarens inbyggda stil
 
 ## VS Code - da verktyg
 
